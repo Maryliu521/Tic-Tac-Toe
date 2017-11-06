@@ -584,9 +584,9 @@ function square1Animate() {
 		if (verdict == undefined) { // if verdict is empty than the square is unoccupied.
 			var paintAvatar = determineAvatar(); // get the correct avatar to paint for the active player
 			var selected = document.getElementsByClassName(paintAvatar)[0]; // paint avatar
-			if (paintAvatar == "O") { // change these all to ternary satetments instead
+			if (paintAvatar == "Elsa") { // change these all to ternary satetments instead
 				animateO(selected); // call function to animate O
-			} else if (paintAvatar == "X") {
+			} else if (paintAvatar == "Anna") {
 				animateX(selected); // call function to animate X
 			}
 			// build new array adding the newly selected square and the assigned avatar
@@ -607,9 +607,9 @@ function square2Animate() {
 		if (verdict == undefined) { // if verdict is empty than the square is unoccupied.
 			var paintAvatar = determineAvatar(); // get the correct avatar to paint for the active player
 			var selected = document.getElementsByClassName(paintAvatar)[1]; // paint avatar
-			if (paintAvatar == "O") { // change these all to ternary satetments instead
+			if (paintAvatar == "Elsa") { // change these all to ternary satetments instead
 				animateO(selected); // call function to animate O
-			} else if (paintAvatar == "X") {
+			} else if (paintAvatar == "Anna") {
 				animateX(selected); // call function to animate X
 			}
 			// build new array adding the newly selected square and the assigned avatar
@@ -630,9 +630,9 @@ function square3Animate() {
 		if (verdict == undefined) { // if verdict is empty than the square is unoccupied.
 			var paintAvatar = determineAvatar(); // get the correct avatar to paint for the active player
 			var selected = document.getElementsByClassName(paintAvatar)[2]; // paint avatar
-			if (paintAvatar == "O") { // change these all to ternary satetments instead
+			if (paintAvatar == "Elsa") { // change these all to ternary satetments instead
 				animateO(selected); // call function to animate O
-			} else if (paintAvatar == "X") {
+			} else if (paintAvatar == "Anna") {
 				animateX(selected); // call function to animate X
 			}
 			// build new array adding the newly selected square and the assigned avatar
@@ -653,9 +653,9 @@ function square4Animate() {
 		if (verdict == undefined) { // if verdict is empty than the square is unoccupied.
 			var paintAvatar = determineAvatar(); // get the correct avatar to paint for the active player
 			var selected = document.getElementsByClassName(paintAvatar)[3]; // paint avatar
-			if (paintAvatar == "O") { // change these all to ternary satetments instead
+			if (paintAvatar == "Elsa") { // change these all to ternary satetments instead
 				animateO(selected); // call function to animate O
-			} else if (paintAvatar == "X") {
+			} else if (paintAvatar == "Anna") {
 				animateX(selected); // call function to animate X
 			}
 			// build new array adding the newly selected square and the assigned avatar
@@ -676,9 +676,9 @@ function square5Animate() {
 		if (verdict == undefined) { // if verdict is empty than the square is unoccupied.
 			var paintAvatar = determineAvatar(); // get the correct avatar to paint for the active player
 			var selected = document.getElementsByClassName(paintAvatar)[4]; // paint avatar
-			if (paintAvatar == "O") { // change these all to ternary satetments instead
+			if (paintAvatar == "Elsa") { // change these all to ternary satetments instead
 				animateO(selected); // call function to animate O
-			} else if (paintAvatar == "X") {
+			} else if (paintAvatar == "Anna") {
 				animateX(selected); // call function to animate X
 			}
 			// build new array adding the newly selected square and the assigned avatar
@@ -699,9 +699,9 @@ function square6Animate() {
 		if (verdict == undefined) { // if verdict is empty than the square is unoccupied.
 			var paintAvatar = determineAvatar(); // get the correct avatar to paint for the active player
 			var selected = document.getElementsByClassName(paintAvatar)[5]; // paint avatar
-			if (paintAvatar == "O") { // change these all to ternary satetments instead
+			if (paintAvatar == "Elsa") { // change these all to ternary satetments instead
 				animateO(selected); // call function to animate O
-			} else if (paintAvatar == "X") {
+			} else if (paintAvatar == "Anna") {
 				animateX(selected); // call function to animate X
 			}
 			// build new array adding the newly selected square and the assigned avatar
@@ -722,9 +722,9 @@ function square7Animate() {
 		if (verdict == undefined) { // if verdict is empty than the square is unoccupied.
 			var paintAvatar = determineAvatar(); // get the correct avatar to paint for the active player
 			var selected = document.getElementsByClassName(paintAvatar)[6]; // paint avatar
-			if (paintAvatar == "O") { // change these all to ternary satetments instead
+			if (paintAvatar == "Elsa") { // change these all to ternary satetments instead
 				animateO(selected); // call function to animate O
-			} else if (paintAvatar == "X") {
+			} else if (paintAvatar == "Anna") {
 				animateX(selected); // call function to animate X
 			}
 			// build new array adding the newly selected square and the assigned avatar
@@ -745,9 +745,9 @@ function square8Animate() {
 		if (verdict == undefined) { // if verdict is empty than the square is unoccupied.
 			var paintAvatar = determineAvatar(); // get the correct avatar to paint for the active player
 			var selected = document.getElementsByClassName(paintAvatar)[7]; // paint avatar
-			if (paintAvatar == "O") { // change these all to ternary satetments instead
+			if (paintAvatar == "Elsa") { // change these all to ternary satetments instead
 				animateO(selected); // call function to animate O
-			} else if (paintAvatar == "X") {
+			} else if (paintAvatar == "Anna") {
 				animateX(selected); // call function to animate X
 			}
 			// build new array adding the newly selected square and the assigned avatar
@@ -768,9 +768,9 @@ function square9Animate() {
 		if (verdict == undefined) { // if verdict is empty than the square is unoccupied.
 			var paintAvatar = determineAvatar(); // get the correct avatar to paint for the active player
 			var selected = document.getElementsByClassName(paintAvatar)[8]; // paint avatar
-			if (paintAvatar == "O") { // change these all to ternary satetments instead
+			if (paintAvatar == "Elsa") { // change these all to ternary satetments instead
 				animateO(selected); // call function to animate O
-			} else if (paintAvatar == "X") {
+			} else if (paintAvatar == "Anna") {
 				animateX(selected); // call function to animate X
 			}
 			// build new array adding the newly selected square and the assigned avatar
